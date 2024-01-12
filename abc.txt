@@ -1,2 +1,6 @@
 today is friday
 date is 12-01-2024
+
+Today we have a mock test
+
+Thx
